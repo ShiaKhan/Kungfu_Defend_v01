@@ -1,0 +1,125 @@
+
+heo.png
+size: 404,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg_sau_1
+  rotate: true
+  xy: 250, 3
+  size: 58, 71
+  orig: 60, 76
+  offset: 1, 4
+  index: -1
+Lleg_sau_2
+  rotate: false
+  xy: 288, 294
+  size: 36, 54
+  orig: 50, 64
+  offset: 13, 1
+  index: -1
+Lleg_truoc_1
+  rotate: false
+  xy: 275, 75
+  size: 53, 66
+  orig: 55, 67
+  offset: 1, 0
+  index: -1
+Lleg_truoc_2
+  rotate: false
+  xy: 323, 16
+  size: 44, 57
+  orig: 51, 64
+  offset: 6, 1
+  index: -1
+Rleg_sau_1
+  rotate: true
+  xy: 369, 72
+  size: 31, 32
+  orig: 33, 34
+  offset: 1, 1
+  index: -1
+Rleg_sau_2
+  rotate: false
+  xy: 374, 259
+  size: 27, 31
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+Rleg_truoc_1
+  rotate: true
+  xy: 326, 300
+  size: 48, 38
+  orig: 50, 40
+  offset: 1, 1
+  index: -1
+Rleg_truoc_2
+  rotate: false
+  xy: 369, 105
+  size: 32, 36
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 294
+  size: 284, 234
+  orig: 286, 236
+  offset: 1, 1
+  index: -1
+duoi
+  rotate: false
+  xy: 195, 2
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+ma_hong
+  rotate: false
+  xy: 195, 63
+  size: 78, 78
+  orig: 82, 81
+  offset: 2, 1
+  index: -1
+mat
+  rotate: true
+  xy: 374, 200
+  size: 57, 26
+  orig: 59, 28
+  offset: 1, 1
+  index: -1
+mui
+  rotate: false
+  xy: 288, 412
+  size: 109, 116
+  orig: 111, 116
+  offset: 1, 0
+  index: -1
+rang_nanh
+  rotate: true
+  xy: 374, 292
+  size: 56, 28
+  orig: 58, 30
+  offset: 1, 1
+  index: -1
+tai
+  rotate: false
+  xy: 195, 143
+  size: 177, 149
+  orig: 178, 149
+  offset: 1, 0
+  index: -1
+toc_sau
+  rotate: true
+  xy: 288, 350
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+toc_truoc
+  rotate: true
+  xy: 2, 10
+  size: 282, 191
+  orig: 282, 191
+  offset: 0, 0
+  index: -1
